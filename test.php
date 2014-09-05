@@ -1,7 +1,7 @@
 <?php
 
 echo phpinfo();
-echo "done";
+echo "done1";
 exit;
 
 
