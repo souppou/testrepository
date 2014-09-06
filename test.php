@@ -10,6 +10,7 @@ echo "done6";
 echo "done7";
 echo "done8";
 echo "done9";
+echo "done10";
 
 exit;
 
